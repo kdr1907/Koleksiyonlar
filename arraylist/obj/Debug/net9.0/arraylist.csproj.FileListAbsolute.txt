@@ -1,0 +1,15 @@
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\obj\Debug\net9.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\obj\Debug\net9.0\arraylist.AssemblyInfoInputs.cache
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\obj\Debug\net9.0\arraylist.AssemblyInfo.cs
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\obj\Debug\net9.0\arraylist.csproj.CoreCompileInputs.cache
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\obj\Debug\net9.0\arraylist.sourcelink.json
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\bin\Debug\net9.0\arraylist.exe
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\bin\Debug\net9.0\arraylist.deps.json
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\bin\Debug\net9.0\arraylist.runtimeconfig.json
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\bin\Debug\net9.0\arraylist.dll
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\bin\Debug\net9.0\arraylist.pdb
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\obj\Debug\net9.0\arraylist.dll
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\obj\Debug\net9.0\refint\arraylist.dll
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\obj\Debug\net9.0\arraylist.pdb
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\obj\Debug\net9.0\arraylist.genruntimeconfig.cache
+c:\Users\kdrok\Desktop\koleksiyonlar\arraylist\obj\Debug\net9.0\ref\arraylist.dll
