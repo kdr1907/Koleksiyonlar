@@ -1,0 +1,14 @@
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\bin\Debug\net9.0\generic_list.exe
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\bin\Debug\net9.0\generic_list.deps.json
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\bin\Debug\net9.0\generic_list.runtimeconfig.json
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\bin\Debug\net9.0\generic_list.dll
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\bin\Debug\net9.0\generic_list.pdb
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\obj\Debug\net9.0\generic_list.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\obj\Debug\net9.0\generic_list.AssemblyInfoInputs.cache
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\obj\Debug\net9.0\generic_list.AssemblyInfo.cs
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\obj\Debug\net9.0\generic_list.csproj.CoreCompileInputs.cache
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\obj\Debug\net9.0\generic_list.dll
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\obj\Debug\net9.0\refint\generic_list.dll
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\obj\Debug\net9.0\generic_list.pdb
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\obj\Debug\net9.0\generic_list.genruntimeconfig.cache
+c:\Users\kdrok\Desktop\koleksiyonlar\generic_list\obj\Debug\net9.0\ref\generic_list.dll
