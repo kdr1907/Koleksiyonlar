@@ -1,0 +1,15 @@
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\obj\Debug\net9.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\obj\Debug\net9.0\dictionary.AssemblyInfoInputs.cache
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\obj\Debug\net9.0\dictionary.AssemblyInfo.cs
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\obj\Debug\net9.0\dictionary.csproj.CoreCompileInputs.cache
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\obj\Debug\net9.0\dictionary.sourcelink.json
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\bin\Debug\net9.0\dictionary.exe
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\bin\Debug\net9.0\dictionary.deps.json
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\bin\Debug\net9.0\dictionary.runtimeconfig.json
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\bin\Debug\net9.0\dictionary.dll
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\bin\Debug\net9.0\dictionary.pdb
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\obj\Debug\net9.0\dictionary.dll
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\obj\Debug\net9.0\refint\dictionary.dll
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\obj\Debug\net9.0\dictionary.pdb
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\obj\Debug\net9.0\dictionary.genruntimeconfig.cache
+c:\Users\kdrok\Desktop\koleksiyonlar\dictionary\obj\Debug\net9.0\ref\dictionary.dll
